@@ -1,4 +1,4 @@
-# Raspberry-Humidit--Sol
+# Raspberry-Humidite-Sol
 Mesure du l'humidité de sol avec Raspberry Pi
 
 ## Objectif du projet
